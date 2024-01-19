@@ -19,7 +19,7 @@ Read more about MIT here:
 
 ## Description
 
-This is a project assignment for my MSU Fullstack Web Development Bootcamp. My task was to modify starter code to create a Note Taker application that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file..
+This is a project assignment for my MSU Fullstack Web Development Bootcamp. My task was to build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
 ![Alt text](<Assets/E-commerce Back End Screenshot.png>)
 
@@ -28,6 +28,9 @@ This is a project assignment for my MSU Fullstack Web Development Bootcamp. My t
 Required applications:
 - Visual Studio Code: (https://code.visualstudio.com/)
 - Express.js: (https://www.npmjs.com/package/express)
+- Node.js: (https://nodejs.org/en)
+- Inquirer: (https://www.npmjs.com/package/inquirer)
+- MySQ: (https://www.mysql.com)
 - Git for MAC/Windows/Linux: (https://git-scm.com/downloads)
 
 ## Usage
