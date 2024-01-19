@@ -21,6 +21,8 @@ Read more about MIT here:
 
 This is a project assignment for my MSU Fullstack Web Development Bootcamp. My task was to build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
+https://drive.google.com/file/d/17I4P-I5SnF5g5Ux7xMIGO85p1BcwFyo8/view
+
 ![Alt text](<Assets/E-commerce Back End Screenshot.png>)
 
 ## Installation
